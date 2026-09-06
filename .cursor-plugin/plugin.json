@@ -1,0 +1,24 @@
+{
+  "name": "kontext",
+  "version": "0.1.0",
+  "description": "Persistent, portable memory for your work. Save projects, tasks, docs, decisions, and reusable Skills to your own Kontext Space and recall them in Grok Bot, Cursor, or any connected AI client.",
+  "author": {
+    "name": "The Kontext Co",
+    "email": "support@thekontextco.ai"
+  },
+  "homepage": "https://thekontextco.ai",
+  "repository": "https://github.com/TheKontextCo/kontext-grok-plugin",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "context",
+    "knowledge-management",
+    "projects",
+    "tasks",
+    "notes",
+    "skills",
+    "productivity",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}
