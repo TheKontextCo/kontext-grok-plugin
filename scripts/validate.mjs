@@ -79,7 +79,7 @@ for (const command of commands) {
   );
 }
 
-await readFile(join(root, plugin.logo), "utf8");
+await readFile(join(root, plugin.logo));
 await readFile(join(root, "LICENSE"), "utf8");
 await readFile(join(root, "README.md"), "utf8");
 
