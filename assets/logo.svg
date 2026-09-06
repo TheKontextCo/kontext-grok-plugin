@@ -1,6 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Kontext">
-  <rect width="64" height="64" rx="16" fill="#111827"/>
-  <rect x="14" y="16" width="36" height="10" rx="3" fill="#F4F1EA"/>
-  <rect x="14" y="29" width="28" height="10" rx="3" fill="#C4B8A5"/>
-  <rect x="14" y="42" width="20" height="10" rx="3" fill="#8A7F6E"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Kontext">
+  <defs>
+    <linearGradient id="k" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#D0D0D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="229" fill="#000000"/>
+  <path d="M151.63758389261739 892.0V131.9999999999999H363.82550335570465V453.85234899328856Q388.30872483221475 422.22818791946304 412.79194630872485 390.6040268456375Q437.2751677852349 358.979865771812 461.7583892617449 327.35570469798654L612.738255033557 131.9999999999999H858.0805369127517L592.8456375838925 458.4429530201342L872.3624161073825 892.0H629.5704697986577L456.1476510067114 602.2818791946308L363.82550335570465 715.51677852349V892.0Z" fill="url(#k)"/>
 </svg>
